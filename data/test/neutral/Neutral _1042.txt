@@ -1,5 +1,0 @@
-What will be the theme of the birthday?
--squid game
--How many children will there be? 
-- 30
-birthday:
