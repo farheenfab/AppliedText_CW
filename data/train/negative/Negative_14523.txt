@@ -1,0 +1,16 @@
+Here is the first game:
+
+You will be playing red light, green light.
+
+You are allowed to move forward when it shouts out green light.
+
+Stop when it shouts red light.
+
+If your movement is detected after, you will be eliminated.
+
+Green light!
+
+
+
+
+Red light!
