@@ -1,0 +1,5 @@
+Movie Name:Squid Game
+Country:South Korea
+Game level:level 2
+Season:1
+Location: cave island
