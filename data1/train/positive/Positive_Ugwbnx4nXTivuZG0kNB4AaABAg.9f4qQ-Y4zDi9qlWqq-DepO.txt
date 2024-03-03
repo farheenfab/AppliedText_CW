@@ -1,0 +1,3 @@
+ Well, even if the Star has straight lines than a curve line, this figure is harder than the circle by the fact that it has inner corners, zones with a higher risk to commit a mistake.
+
+Unlike the triangle, that only has outer corners, making this figure easier than circle. While the Star is harder than them, by its inner corners.

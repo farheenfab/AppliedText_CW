@@ -1,0 +1,1 @@
+Also the delay in the guillotine was suspect. On the first round it dropped right away on the second round it takes a few seconds
