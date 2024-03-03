@@ -1,0 +1,2 @@
+red light: impostor 
+green light:crewmate
