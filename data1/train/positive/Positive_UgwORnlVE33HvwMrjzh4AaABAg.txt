@@ -1,0 +1,5 @@
+About my effort this video: 
+
+I am working more than 6 hours on this video. This is a very difficult process of modeling a 3d flipbook, animating it and rendering it. The images used in this video are all digitally painted.  My attempt is to give a new dimension to a flipbook, a digital flipbook. Hope you all will enjoy my work!! Flipbook modeling and animation programs - Blender, Rendering program - Unreal Engine.
+
+(description)

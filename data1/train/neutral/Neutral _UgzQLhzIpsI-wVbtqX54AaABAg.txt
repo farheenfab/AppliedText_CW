@@ -1,0 +1,2 @@
+Person: “I will now repeat the rules”
+The doll: *”Green Light”*

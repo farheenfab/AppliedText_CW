@@ -1,0 +1,1 @@
+Easy.  Go when the robot isn't looking, stop when it does look.

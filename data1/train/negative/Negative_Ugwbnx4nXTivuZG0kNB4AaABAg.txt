@@ -1,0 +1,5 @@
+(Difficulty)
+- Triangle: easy
+- Circle: normal
+- Star: hard
+- Umbrella: Dante must die
