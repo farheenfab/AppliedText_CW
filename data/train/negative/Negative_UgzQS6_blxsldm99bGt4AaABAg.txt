@@ -1,2 +1,0 @@
-Person: moves just a little
-Machine gun: "And I took that personally."
